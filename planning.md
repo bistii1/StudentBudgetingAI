@@ -43,6 +43,12 @@ https://www.nerdwallet.com/article/loans/student-loans/3-ways-to-reduce-student-
 5. Work experiences on campus, finding on-site payable opportunities for the user (who inputs their college)
 6. Scholarships (a highly tailored scholarship search) - emphasis put on scholarships that are ATTAINABLE
 
+7. Applying for student loan forgiveness
+https://studentaid.gov/manage-loans/forgiveness-cancellation
+
+8. DAY TO DAY EXPENSES: college students may need a tracker to see how much they are paying food,supplies, etc
+
+Use of AI in college campuses: https://edtechmagazine.com/higher/article/2019/07/ai-has-potential-ease-campus-budget-burdens
 
 ![image](https://github.com/bistii1/StudentBudgetingAI/assets/142824913/e547a634-8083-4e26-b837-372dbb353d39)
 
