@@ -26,18 +26,22 @@ Students have issues paying for college due to:
 
 1. Insufficient information on student loan debt
 https://www.bestcolleges.com/resources/college-loans/
+
 https://www.consumerfinance.gov/paying-for-college/repay-student-debt/
+
 LOAN SIMULATOR (can utilize within website for those trying to calculate their initial costs) https://studentaid.gov/loan-simulator/
+
+
 LOAN CALCULATOR https://smartasset.com/student-loans/student-loan-calculator
 
-2. Taking unneccesary classes
+3. Taking unneccesary classes
 Some type of schedule checker to create the most efficent way to graduate for the user
 
-3. Paying off loans while in college:
+4. Paying off loans while in college:
 https://www.nerdwallet.com/article/loans/student-loans/3-ways-to-reduce-student-loan-debt
 
-4. Work experiences on campus, finding on-site payable opportunities for the user (who inputs their college)
-5. Scholarships (a highly tailored scholarship search) - emphasis put on scholarships that are ATTAINABLE
+5. Work experiences on campus, finding on-site payable opportunities for the user (who inputs their college)
+6. Scholarships (a highly tailored scholarship search) - emphasis put on scholarships that are ATTAINABLE
 
 
 ![image](https://github.com/bistii1/StudentBudgetingAI/assets/142824913/e547a634-8083-4e26-b837-372dbb353d39)
