@@ -52,10 +52,26 @@ Use of AI in college campuses: https://edtechmagazine.com/higher/article/2019/07
 
  AI-powered budgeting app https://web.meetcleo.com/budget 
 
+
 ![image](https://github.com/bistii1/StudentBudgetingAI/assets/142824913/e547a634-8083-4e26-b837-372dbb353d39)
 
 College budgeting template: https://www.notion.so/templates/college-budgeting-template
 
 Minimizing student loan debt through smart spending: https://www.usnews.com/education/best-colleges/paying-for-college/slideshows/10-steps-to-minimize-student-loan-debt
+
+<header>
+ 
+ # More than 3 of 4 Americans believe paying for college is a challenge 
+ 77% of US adults say a college degree is unattainable due to the price
+ 
+</header>
+
+people think college is a waste of money: https://www.intelligent.com/1-in-3-recent-high-school-grads-skipping-college-because-its-a-waste-of-money/#:~:text=As%20college%20costs%20continue%20to,they%20can't%20afford%20it. 
+
+solutions: increasing access to resources for education (online college, ways to get grants, less competitive scholarshps) 
+PATHWAYS algorithim?
+User starts on a screen and taps multiple aspects of their financial situation, which will result in a tailored end-screen on the resources that would help their specific situation.
+
+AI Implementation would come in by training an LLM on the text the user inputs (through typing) and picking up on themes that will result in a more helpful end result 
 
 working spreadsheet: https://docs.google.com/spreadsheets/d/1Vqpb1UCgND79CX3bfYcb5UugXMH6p40w2lFxcr_gnG0/edit#gid=0 
