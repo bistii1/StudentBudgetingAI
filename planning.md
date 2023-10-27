@@ -50,6 +50,12 @@ https://studentaid.gov/manage-loans/forgiveness-cancellation
 
 Use of AI in college campuses: https://edtechmagazine.com/higher/article/2019/07/ai-has-potential-ease-campus-budget-burdens
 
+ AI-powered budgeting app https://web.meetcleo.com/budget 
+
 ![image](https://github.com/bistii1/StudentBudgetingAI/assets/142824913/e547a634-8083-4e26-b837-372dbb353d39)
+
+College budgeting template: https://www.notion.so/templates/college-budgeting-template
+
+Minimizing student loan debt through smart spending: https://www.usnews.com/education/best-colleges/paying-for-college/slideshows/10-steps-to-minimize-student-loan-debt
 
 working spreadsheet: https://docs.google.com/spreadsheets/d/1Vqpb1UCgND79CX3bfYcb5UugXMH6p40w2lFxcr_gnG0/edit#gid=0 
