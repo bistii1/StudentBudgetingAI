@@ -85,6 +85,7 @@ working spreadsheet: https://docs.google.com/spreadsheets/d/1Vqpb1UCgND79CX3bfYc
 
 2. **MVP Definition:**
     - What features or functionalities have you identified as essential for the minimum viable product (MVP)?
+ Finding a small-scale hugging face model to train to be knowledgable on t
    We need to train a chatbot that is equipped with answering questions on the college application process as it pertains to paying for college.
     - How did you decide on these specific features for the MVP?
    We know we need heightened resources for kids wanting to pay for college, and not everyone can afford a personal college counselor 
