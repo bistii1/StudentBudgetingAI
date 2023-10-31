@@ -75,3 +75,20 @@ User starts on a screen and taps multiple aspects of their financial situation, 
 AI Implementation would come in by training an LLM on the text the user inputs (through typing) and picking up on themes that will result in a more helpful end result 
 
 working spreadsheet: https://docs.google.com/spreadsheets/d/1Vqpb1UCgND79CX3bfYcb5UugXMH6p40w2lFxcr_gnG0/edit#gid=0 
+
+
+1. **Project Overview:**
+    - Can you provide a brief overview of your project and its objectives?
+  Our projects helps prospective college students in saving money and lessening their risk of falling into debt as they pay for college
+    - What problem does your project aim to solve, and why is it important?
+     Our project aims to solve the problem of students overpaying for college and falling into student loan debt that is most often crippling to many families - it is an issue such a widespread group of people experience as college education keeps getting more and more expensive. 
+
+2. **MVP Definition:**
+    - What features or functionalities have you identified as essential for the minimum viable product (MVP)?
+   We need to train a chatbot that is equipped with answering questions on the college application process as it pertains to paying for college.
+    - How did you decide on these specific features for the MVP?
+   We know we need heightened resources for kids wanting to pay for college, and not everyone can afford a personal college counselor 
+
+3. **Progress and Development:**
+    - What progress have you made so far in developing the MVP?
+    - Can you show me the components or prototypes you've developed for the MVP?
