@@ -79,10 +79,10 @@ working spreadsheet: https://docs.google.com/spreadsheets/d/1Vqpb1UCgND79CX3bfYc
 
 1. **Project Overview:**
     - Can you provide a brief overview of your project and its objectives?
-    - 
+    
   Our projects helps prospective college students in saving money and lessening their risk of falling into debt as they pay for college
 
-    - What problem does your project aim to solve, and why is it important?
+ 2. - What problem does your project aim to solve, and why is it important?
    
      Our project aims to solve the problem of students overpaying for college and falling into student loan debt that is most often crippling to many families - it is an issue such a widespread group of people experience as college education keeps getting more and more expensive. Everyone needs increased exposure to resources available to alleviate the consequences of student loan debt 
 
