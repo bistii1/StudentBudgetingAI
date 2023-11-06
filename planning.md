@@ -79,17 +79,32 @@ working spreadsheet: https://docs.google.com/spreadsheets/d/1Vqpb1UCgND79CX3bfYc
 
 1. **Project Overview:**
     - Can you provide a brief overview of your project and its objectives?
+    - 
   Our projects helps prospective college students in saving money and lessening their risk of falling into debt as they pay for college
+
     - What problem does your project aim to solve, and why is it important?
-     Our project aims to solve the problem of students overpaying for college and falling into student loan debt that is most often crippling to many families - it is an issue such a widespread group of people experience as college education keeps getting more and more expensive. 
+   
+     Our project aims to solve the problem of students overpaying for college and falling into student loan debt that is most often crippling to many families - it is an issue such a widespread group of people experience as college education keeps getting more and more expensive. Everyone needs increased exposure to resources available to alleviate the consequences of student loan debt 
 
-2. **MVP Definition:**
+3. **MVP Definition:**
     - What features or functionalities have you identified as essential for the minimum viable product (MVP)?
- Finding a small-scale hugging face model to train to be knowledgable on t
+    - 
+      A website with updating information on the MVP
+      Finding a small-scale hugging face model to train to be knowledgable on processes college payment    
    We need to train a chatbot that is equipped with answering questions on the college application process as it pertains to paying for college.
-    - How did you decide on these specific features for the MVP?
-   We know we need heightened resources for kids wanting to pay for college, and not everyone can afford a personal college counselor 
 
-3. **Progress and Development:**
+    - How did you decide on these specific features for the MVP?
+  
+ Website: this will serve as our base for the chatbot, and serve as a place for kids to recieve more information on their personal college situation.
+   We know we need heightened resources for kids wanting to pay for college, and not everyone can afford a personal college counselor, so the chatbot built into the website will offer 24/7 personalized help with college finances to those who need it.
+
+4. **Progress and Development:**
     - What progress have you made so far in developing the MVP?
+
+I have tried to run 3 separate models for the chatbot, but I need to look at more models that are small enough to run in a replit environment 
+
+Looked at llama-chat-gpt-neo3 model, beluga-3 model, llama-chat-gpt-neo
+
     - Can you show me the components or prototypes you've developed for the MVP?
+
+  
