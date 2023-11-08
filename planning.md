@@ -128,8 +128,11 @@ Underutilized Federal Work-Study Program: A significant number of eligible stude
 Low Financial Literacy Among Millennials: Only 24% of millennials demonstrated basic financial literacy, highlighting a lack of financial education among young adults.
 
 <header>
+ 
 # Solution: Implement AI-driven chat bot that will help students find resources on campus that wil help them save, earn, and budget their money
+
 </header>
+
 
 Personalized Budgeting Apps: AI-powered budgeting apps can help students track expenses, create budgets, and set savings goals, offering personalized financial advice.
 
