@@ -112,24 +112,41 @@ Problem: Many college students face significant financial challenges that impact
 
 Affordability Gap: Roughly two-thirds of undergraduates are paying more for college than is recommended by a common benchmark for affordability, indicating a financial burden on students.
 Decrease in Merit Financial Aid: The top method of paying for college, merit financial aid (scholarships and grants), decreased from 64% in 2019 to 51% in 2022, indicating a potential decrease in financial support for students.
+
 Financial Challenges: College students face various financial challenges, including tuition fees, living expenses, textbooks, and unexpected costs, which can lead to financial stress.
+
 Food and Housing Insecurity: A significant percentage of college students experience food insecurity (48%) and housing insecurity (41%), further exacerbating their financial difficulties.
+
 Impact on Academic Performance: Financial stress has been linked to lower GPAs and higher dropout rates, indicating that financial challenges affect students' academic performance.
+
 Lack of Financial Literacy: Many college students lack basic financial literacy skills, making it difficult for them to manage their finances effectively.
+
 Missed Financial Aid Opportunities: Students may not be fully aware of available financial aid opportunities, leading to missed opportunities for financial support.
+
 Underutilized Federal Work-Study Program: A significant number of eligible students do not take advantage of the Federal Work-Study program, missing out on potential income opportunities.
+
 Low Financial Literacy Among Millennials: Only 24% of millennials demonstrated basic financial literacy, highlighting a lack of financial education among young adults.
 
-Solution: Implement AI-driven chat bot that will help students find resources on campus that wil help them save, earn, and budget their money
+<header>
+# Solution: Implement AI-driven chat bot that will help students find resources on campus that wil help them save, earn, and budget their money
+</header>
 
 Personalized Budgeting Apps: AI-powered budgeting apps can help students track expenses, create budgets, and set savings goals, offering personalized financial advice.
+
 Financial Aid Optimization: AI can assist students in identifying available financial aid options, including scholarships, grants, and work-study opportunities, ensuring they access all available resources.
+
 Predictive Analytics for Financial Health: AI can analyze students' financial data to predict potential challenges and provide alerts and recommendations to avoid financial crises.
+
 Student Debt Management: AI-driven platforms can help students manage student loan repayment plans efficiently, optimizing repayment options based on their financial situation.
+
 Financial Education and Resources: AI chatbots can provide students with 24/7 access to financial information, budgeting tips, and direct them to relevant financial literacy resources.
+
 Early Warning Systems: AI can identify early signs of financial distress by analyzing students' spending and academic performance, allowing institutions to intervene with support services.
+
 Behavioral Nudges: AI can send personalized reminders and nudges to encourage responsible financial behavior, promoting savings and responsible spending.
+
 Raise Awareness of Financial Aid Opportunities: Use AI-driven campaigns to inform students about available financial aid options, ensuring they do not miss potential sources of support.
+
 Promote Federal Work-Study Program: AI can be used to match eligible students with suitable work-study opportunities, increasing their utilization of the program.
 Enhance Financial Literacy: Implement AI-based educational tools to improve financial literacy among college students, addressing the lack of financial knowledge.
 College counselor chatbot:
