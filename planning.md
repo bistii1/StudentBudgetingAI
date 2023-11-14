@@ -170,4 +170,10 @@ Personalization: Chatbots can tailor responses to individual students, addressin
 Efficiency: Chatbots can process a high volume of inquiries simultaneously, reducing the workload on human counselors.
 Promotion of Awareness: AI-driven campaigns can help raise awareness about financial aid opportunities and financial literacy resources.
 
+
+How to integrate chatgpt API: 
+
+https://www.openxcell.com/blog/how-to-integrate-chatgpt-into-your-website/
+
+https://help.socialintents.com/article/189-how-to-embed-chatgpt-in-your-website 
   
